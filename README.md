@@ -1,4 +1,5 @@
 # search-api
+Deploy the app: $ gcloud app deploy --version searching <br>
 *Input: <br>
 {"first_name": "Josep",    "last_name": "Mic", "company_name": "Hollywood"},<br>
 {"first_name": "Jacob Mic",    "last_name": "Moc", "company_name": None},<br>
